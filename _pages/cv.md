@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 
-* 2019-2026 AI Engineer, EG|CERT, Egypt
+* 2019-2026 AI Engineer, EG-CERT, Egypt
 * 2016-2022 Teaching/Research Associate, Faculty of Engineering, Helwan University, Egypt
 * 2014-2016 Embedded Software Engineer, Valeo, Egypt
  
