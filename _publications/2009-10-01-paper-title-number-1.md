@@ -3,7 +3,7 @@ title: "Speeding up single-query sampling-based algorithms using case-based reas
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2018-21-30
+date: 2018-12-30
 venue: 'Expert Systems with Applications'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0957417418305505'
 excerpt: " "
