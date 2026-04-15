@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mustafa F. Abdelwahed"
-  pronouns         : example: "he/him"
+  pronouns         : "he/him"
   bio              : "Short biography for the left-hand sidebar"
   location         : "United Kingdom"
   employer         : "University of St Andrews"
