@@ -7,6 +7,6 @@ date: 2018-12-30
 venue: 'Expert Systems with Applications'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0957417418305505'
 excerpt: " "
-citation: 'Abdelwahed, M.F., Saleh, M. and Mohamed, A.E., (2018). ``Speeding up single-query sampling-based algorithms using case-based reasoning". Expert Systems with Applications.'
+citation: 'Abdelwahed, M.F., Saleh, M. and Mohamed, A.E., (2018). Speeding up single-query sampling-based algorithms using case-based reasoning. Expert Systems with Applications.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

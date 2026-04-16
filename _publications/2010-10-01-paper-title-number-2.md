@@ -6,7 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 date: 2019-08-02
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8786100'
-citation: 'Abdelwahed, M.F., Mohamed, A.E. and Saleh, M.A., (2019). ``Improving Solution Quality for Experience-Based Framework Through Clustering Algorithms". IEEE Access.'
+citation: 'Abdelwahed, M.F., Mohamed, A.E. and Saleh, M.A., (2019). Improving Solution Quality for Experience-Based Framework Through Clustering Algorithms". IEEE Access.'
 excerpt: " "
 ---
 

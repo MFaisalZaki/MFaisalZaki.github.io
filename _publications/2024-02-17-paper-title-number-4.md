@@ -3,10 +3,10 @@ title: "Detecting Malware Activities With MalpMiner: A Dynamic Analysis Approach
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-date: 2020-03-01
+date: 2023-03-01
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/10100940'
-citation: 'Abdelwahed, M. F., Kamal, M. M., and Sayed, S. G. (2023). ``Detecting Malware Activities with MalpMiner: A Dynamic Analysis Approach". IEEE Access.'
+citation: 'Abdelwahed, M. F., Kamal, M. M., and Sayed, S. G. (2023). Detecting Malware Activities with MalpMiner: A Dynamic Analysis Approach. IEEE Access.'
 excerpt: " "
 ---
 

@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 date: 2020-03-01
 venue: 'Ain Shams Engineering Journal'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2090447919301431'
-citation: 'Abdelwahed, M.F., Mohamed, A.E. and Saleh, M.A., (2020). ``Solving the motion planning problem using learning experience through case-based reasoning and machine learning algorithms". Ain Shams Engineering Journal.'
+citation: 'Abdelwahed, M.F., Mohamed, A.E. and Saleh, M.A., (2020). Solving the motion planning problem using learning experience through case-based reasoning and machine learning algorithms. Ain Shams Engineering Journal.'
 excerpt: " "
 ---
 

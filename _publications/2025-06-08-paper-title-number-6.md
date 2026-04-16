@@ -6,7 +6,7 @@ permalink: /publication/2025-06-08-paper-title-number-6
 date: 2026-02-09
 venue: 'PlanSIG 2026'
 paperurl: 'https://docs.google.com/uc?export=download&id=19vW39mzJ__mFPlqb7XkPDEq1fHKWrUC4'
-citation: 'Abdelwahed, M. F., Espasa, J., Toniolo, A., \& Gent, I. P. (2026). ``From Stories to Cities to Games: A Qualitative Evaluation of Behaviour Planning". PlanSig 2026.'
+citation: 'Abdelwahed, M. F., Espasa, J., Toniolo, A., \& Gent, I. P. (2026). From Stories to Cities to Games: A Qualitative Evaluation of Behaviour Planning. PlanSig 2026.'
 excerpt: " "
 ---
 
